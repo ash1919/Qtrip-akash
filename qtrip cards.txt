@@ -1,0 +1,109 @@
+ <div class="container mt-3 border-light ">
+      <!-- TODO: MODULE_LAYOUT -->
+      <!-- 1. Create the grid like layout as required. -->
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4">
+        <div class="col">
+          <a href="/pages/adventures/index.html" class="tile">
+            <div class="card text-white" >
+              <img
+                src="/assets/bengaluru.jpg"
+                class="card-img rounded tile-img img-fluid"
+                alt="bengaluru"
+              />
+              <div
+                class="card-img-overlay tile-text d-flex flex-column justify-content-end align-items-center text-white text-center"
+              >
+                <h5>Bengaluru</h5>
+                <p>100+ places</p>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col">
+          <a href="/pages/adventures/index.html" class="tile">
+            <div class="card text-white" >
+              <img
+                src="/assets/goa.jpg"
+                class="card-img rounded tile-img img-fluid "
+                alt="Goa"
+              />
+              <div
+                class="card-img-overlay tile-text d-flex flex-column justify-content-end align-items-center text-white text-center"
+              >
+                <h5>Goa</h5>
+                <p>100+ places</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col">
+          <a href="/pages/adventures/index.html" class="tile">
+            <div class="card text-white" >
+              <img
+                src="/assets/kolkata.jpg"
+                class="card-img rounded tile-img img-fluid"
+                alt="kolkata"
+              />
+              <div
+                class="card-img-overlay tile-text d-flex flex-column justify-content-end align-items-center text-white text-center"
+              >
+                <h5>kolkata</h5>
+                <p>100+ places</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col">
+          <a href="/pages/adventures/index.html" class="tile">
+            <div class="card text-white" >
+              <img
+                src="/assets/mumbai.jpg"
+                class="card-img rounded tile-img img-fluid"
+                alt="mumbai"
+              />
+              <div
+                class="card-img-overlay tile-text d-flex flex-column justify-content-end align-items-center text-white text-center"
+              >
+                <h5>mumbai</h5>
+                <p>100+ places</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col">
+          <a href="/pages/adventures/index.html" class="tile">
+            <div class="card text-white" >
+              <img
+                src="/assets/malaysia.jpg"
+                class="card-img rounded tile-img img-fluid"
+                alt="malaysia"
+              />
+              <div
+                class="card-img-overlay tile-text d-flex flex-column justify-content-end align-items-center text-white text-center"
+              >
+                <h5>malaysia</h5>
+                <p>100+ places</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col">
+          <a href="/pages/adventures/index.html" class="tile">
+            <div class="card text-white " style="height: 20rem;">
+              <img
+                src="/assets/singapore.jpg"
+                class="card-img rounded tile-img img-fluid "
+                alt="singapore"
+              />
+              <div
+                class="card-img-overlay tile-text d-flex flex-column justify-content-end align-items-center text-white text-center"
+              >
+                <h5>singapore</h5>
+                <p>100+ places</p>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
